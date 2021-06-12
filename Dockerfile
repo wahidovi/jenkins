@@ -1,3 +1,3 @@
-FROM httpd:2.4
+FROM hshar/webapp
 
 ADD . /var/www/html
